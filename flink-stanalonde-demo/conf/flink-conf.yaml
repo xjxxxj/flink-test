@@ -1,1 +1,7 @@
 web.log.path: E:\coding\flink-test\flink-stanalonde-demo\conf\log4j2.xml
+jobmanager.rpc.address: 127.0.0.1
+taskmanager.cpu.cores: 1
+taskmanager.memory.task.heap.size: 1024M
+taskmanager.memory.managed.size: 125M
+taskmanager.memory.network.min: 10M
+taskmanager.memory.network.max: 10M
